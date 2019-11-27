@@ -3,9 +3,9 @@ Youth Mappers Aoyama Gakuin University
 https://www.youthmappers.org
 
 
-![youthmappers_logo_banner](https://user-images.githubusercontent.com/416977/69695240-f8423100-111e-11ea-9fc5-167d00c20264.jpg)
+<img src="https://user-images.githubusercontent.com/416977/69695240-f8423100-111e-11ea-9fc5-167d00c20264.jpg" width="400">
 
-![youthmappers_logo_square](https://user-images.githubusercontent.com/416977/69695243-f9735e00-111e-11ea-89e1-d4fe24ca0643.jpg)
+<img src="https://user-images.githubusercontent.com/416977/69695243-f9735e00-111e-11ea-89e1-d4fe24ca0643.jpg" width="200">
 
 
 
