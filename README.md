@@ -2,6 +2,14 @@
 Youth Mappers Aoyama Gakuin University
 https://www.youthmappers.org
 
+Youthmappers Resource Library
+https://sites.google.com/view/youthmapperswiki/home
+
+3rd quarterly Youthmappers Newsletter
+https://conta.cc/2nWTr7m
+
+
+
 ## タスク管理
 * mainプロジェクト
 https://github.com/furuhashilab/youthmappers4agu/projects/1
