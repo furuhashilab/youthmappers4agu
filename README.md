@@ -1,4 +1,4 @@
-# youthmapper4agu
+# youthmappers4agu
 Youth Mappers Aoyama Gakuin University
 
 [https://www.youthmappers.org](https://www.youthmappers.org)
