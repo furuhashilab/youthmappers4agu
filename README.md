@@ -13,7 +13,7 @@ Youthmappers Resource Library
 
 <h2>日本語訳</h2>
 
-+　YouthMappers Code of Ethics /  ユースマッパーズ倫理規定
++ YouthMappers Code of Ethics /  ユースマッパーズ倫理規定
 　　[原文](https://github.com/furuhashilab/youthmappers4agu/blob/master/docs/YouthMappers%20Code%20of%20Ethics.pdf) / [和訳](https://github.com/furuhashilab/youthmappers4agu/blob/master/docs/Wcodeof.md)
 
 + How to join YouthMappers /  ユースマッパーズへの参加方法
