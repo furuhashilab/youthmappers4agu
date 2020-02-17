@@ -17,7 +17,7 @@ Youthmappers Resource Library
 　　[原文](https://github.com/furuhashilab/youthmappers4agu/blob/master/docs/YouthMappers%20Code%20of%20Ethics.pdf) / [和訳](https://github.com/furuhashilab/youthmappers4agu/blob/master/docs/Wcodeof.md)
 
 + How to join YouthMappers /  ユースマッパーズへの参加方法
-　　[原文](
+　　[原文](https://github.com/furuhashilab/youthmappers4agu/blob/master/docs/How%20to%20join%20YouthMappers.md) /  [和訳](https://github.com/furuhashilab/youthmappers4agu/blob/master/docs/Whowto.md)
 
 
 
