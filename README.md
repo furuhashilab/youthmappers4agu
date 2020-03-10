@@ -19,6 +19,8 @@ Youthmappers Resource Library
 + How to join YouthMappers /  ユースマッパーズへの参加方法
 　　[原文](https://github.com/furuhashilab/youthmappers4agu/blob/master/docs/How%20to%20join%20YouthMappers.md) /  [和訳](https://github.com/furuhashilab/youthmappers4agu/blob/master/docs/Whowto.md)
 
++ A Step-by-step Guide: How to Apply for YouthMappers Programs /  ユースマッパーズプログラムへの申し込み手順
+　　
 
 
 ## タスク管理
