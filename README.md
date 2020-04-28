@@ -20,8 +20,13 @@ Youthmappers Resource Library
 　　[原文](https://github.com/furuhashilab/youthmappers4agu/blob/master/docs/How%20to%20join%20YouthMappers.md) /  [和訳](https://github.com/furuhashilab/youthmappers4agu/blob/master/docs/Whowto.md)
 
 + A Step-by-step Guide: How to Apply for YouthMappers Programs /  ユースマッパーズプログラムへの申し込み手順
-[原文](https://www.youthmappers.org/single-post/2018/03/29/A-Step-by-Step-Guide-How-to-Apply-for-YouthMappers-Programs) / [和訳]
-　　
+  
+  [原文](https://www.youthmappers.org/single-post/2018/03/29/A-Step-by-Step-Guide-How-to-Apply-for-YouthMappers-Programs) / [和訳]
+
++ MapSwipe website /  マップスワイプ　公式ウェブサイト
+　   
+    [原文ウェブサイト](https://mapswipe.org/index.html) ・ [原文テキストのみ](https://github.com/furuhashilab/youthmappers4agu/blob/master/docs/mapswipeweb.md)  /  [和訳](https://github.com/furuhashilab/youthmappers4agu/blob/master/docs/Wmapswipeweb.md)
+ 
 
 
 ## タスク管理
